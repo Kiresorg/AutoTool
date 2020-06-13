@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AutoTool", "AutoTool\AutoTool.vbproj", "{B4002C60-8232-47B2-80A2-0DCFECC4F034}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AutoTool.Tests", "AutoTool.Tests\AutoTool.Tests.vbproj", "{F6603678-D1FD-42D4-BF56-890AAF2D901C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4002C60-8232-47B2-80A2-0DCFECC4F034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4002C60-8232-47B2-80A2-0DCFECC4F034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4002C60-8232-47B2-80A2-0DCFECC4F034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4002C60-8232-47B2-80A2-0DCFECC4F034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6603678-D1FD-42D4-BF56-890AAF2D901C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6603678-D1FD-42D4-BF56-890AAF2D901C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6603678-D1FD-42D4-BF56-890AAF2D901C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6603678-D1FD-42D4-BF56-890AAF2D901C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08291E9F-DCC0-4D31-A49F-83DFFABDC605}
+	EndGlobalSection
+EndGlobal
